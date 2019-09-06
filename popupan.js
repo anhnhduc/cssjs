@@ -1,8 +1,8 @@
 
-	var url_popup = 'https://doctorkel.com/manh-luc-kahng-mua-o-dau/';
+	var url_popup = 'https://doctorkel.com/manh-luc-khang-mua-o-dau/';
 
       //<![CDATA[
-	  // var url_ppp = 'https://doctorkel.com/manh-luc-kahng-mua-o-dau/';
+	  // var url_ppp = 'https://doctorkel.com/manh-luc-khang-mua-o-dau/';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
