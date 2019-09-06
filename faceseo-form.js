@@ -186,5 +186,5 @@ function showform(){
     }	
 }
 
-var myVar=setInterval(function () {showform()}, 1000);
+var myVar=setInterval(function () {showform()}, thoigianhien);
 
