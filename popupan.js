@@ -1,8 +1,8 @@
 
-	var url_popup = 'https://muahangcenter.com/menf1h-co-that-su-tot-khong/';
+	var url_popup = 'https://muahangcenter.com';
 
       //<![CDATA[
-	  // var url_ppp = 'https://muahangcenter.com/menf1h-co-that-su-tot-khong/';
+	  // var url_ppp = 'https://muahangcenter.com';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
