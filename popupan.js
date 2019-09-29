@@ -1,8 +1,8 @@
 
-	var url_popup = 'https://muahangcenter.com';
+	var url_popup = 'https://menf-1h.blogspot.com';
 
       //<![CDATA[
-	  // var url_ppp = 'https://muahangcenter.com';
+	  // var url_ppp = 'https://menf-1h.blogspot.com';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
